@@ -1,5 +1,0 @@
-const movieService = {};
-
-export {
-    movieService
-};
