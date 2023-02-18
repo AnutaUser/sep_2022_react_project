@@ -1,0 +1,5 @@
+const movieService = {};
+
+export {
+    movieService
+};
